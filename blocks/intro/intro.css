@@ -1,5 +1,7 @@
 .intro {
-  margin: 92px 0 0 0;
+  margin: 0;
   width: 690px;
   height: 429px;
+  justify-self: left;
+  padding-left: 148px;
 }

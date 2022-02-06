@@ -6,6 +6,10 @@
   line-height: 28px;
   font-family: 'Inter';
   font-weight: 400;
+  text-align: right;
+
+
+
 }
 
 .header__lang-link:last-of-type {
