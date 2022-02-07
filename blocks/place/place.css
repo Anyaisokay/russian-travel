@@ -5,3 +5,11 @@
   grid-template-rows: repeat(2, min-content);
   column-gap: 16px;
 }
+
+
+@media screen and (max-width: 425px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+}
