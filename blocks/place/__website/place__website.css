@@ -11,7 +11,7 @@
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 510px) {
   .place__website {
     padding: 0 16px 0 16px;
     max-width: calc(100vw - 16px*2);

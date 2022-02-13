@@ -43,7 +43,7 @@
 @media screen and (max-width: 768px) {
   .cover {
     min-height: 480px;
-    margin-top: 90px;
+    margin-top: 64px;
   }
 }
 
@@ -57,7 +57,7 @@
 @media screen and (max-width: 320px) {
   .cover {
     min-height: 200px;
-    margin-top: 66px;
+    margin-top: 56px;
   }
 }
 

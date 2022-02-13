@@ -8,7 +8,6 @@
 @media screen and (max-width: 1024px) {
   .place__paragraphs {
     max-width: 456px;
-    width: 100%;
   }
 }
 
@@ -16,14 +15,12 @@
 @media screen and (max-width: 768px) {
   .place__paragraphs {
     max-width: 352px;
-    width: 100%;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 510px) {
   .place__paragraphs {
     max-width: calc(100vw - 16px*2);
-    width: 100%;
     margin: 32px auto 0 auto;
     grid-column: 1;
     grid-row: 4;
